@@ -1,0 +1,23 @@
+h1 {
+  margin-left: 500px;
+  border: 100px;
+  padding: 1px;
+  color: black;
+  font-style: italic; 
+}
+h2 {
+  margin-left: 500px;;
+}
+p {
+  color: black;
+  border: 5px;
+  padding: 1px;
+  font-style: italic;
+  font-weight: bolder;
+}
+.frame {
+  margin-left: 500;
+  position: fixed;
+  top: 10px;
+  right: 10px;
+}
