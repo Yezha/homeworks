@@ -10,7 +10,7 @@
 }
 .img {
   display: inline-block;
-
+  padding: 64px;
 }
 .home {
   display: inline-block;
