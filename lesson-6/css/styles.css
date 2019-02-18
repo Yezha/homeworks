@@ -11,6 +11,7 @@
 .img {
   display: inline-block;
   padding: 64px;
+
 }
 .home {
   display: inline-block;
@@ -18,8 +19,17 @@
   vertical-align: top;
   margin-top: 30px;
 }
+.text {
+  width: 393px;
+  height: 50px;
+  color: #2f2f2f;
+  font-family: "Arial MT";
+  font-size: 15px;
+  font-weight: 400;
+}
 body {
   background-color: #f6f6f6;
+  
 }
 .btn {
   width: 252px;
@@ -27,14 +37,26 @@ body {
   background-color: #ec744a;
   color: #ffffff;
   margin-bottom: 60px;
+  font-weight: 400;
+  font-size: 20px;
+  font-family: monospace;
 }
 .title {
+  margin-top: 55px;
   margin-bottom: 30px;
+  font-family: monospace;
+  font-weight: 600;
 }
 .price {
   margin-top: 55px;
+  font-family: "Arial MT";
+  font-weight: 400;
+  font-size: 15px;
 }
 .digit {
   margin-top: 23px;
   margin-bottom: 35px;
+  font-family: "Arial MT";
+  font-size: 30px;
+  font-weight: 400;
 }
