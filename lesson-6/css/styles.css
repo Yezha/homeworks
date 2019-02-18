@@ -40,7 +40,7 @@ body {
   margin-bottom: 60px;
   font-size: 19px;
   font-weight: 400;
-  outline: none;
+  outline: 0 !important;
 }
 .title {
   margin-top: 55px;
