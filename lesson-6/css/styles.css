@@ -7,6 +7,8 @@
  margin: 0 auto;
  background-color: #ffffff;
  margin-top: 86px;
+ border: 1px solid #d7d7d7;
+ background-color: #ffffff;
 }
 .img {
   display: inline-block;
@@ -29,6 +31,7 @@
 }
 body {
   background-color: #f6f6f6;
+  font-family: sans-serif
   
 }
 .btn {
@@ -39,24 +42,24 @@ body {
   margin-bottom: 60px;
   font-weight: 400;
   font-size: 20px;
-  font-family: monospace;
+  
 }
 .title {
   margin-top: 55px;
   margin-bottom: 30px;
-  font-family: monospace;
+  
   font-weight: 600;
 }
 .price {
   margin-top: 55px;
-  font-family: "Arial MT";
+  
   font-weight: 400;
   font-size: 15px;
 }
 .digit {
   margin-top: 23px;
   margin-bottom: 35px;
-  font-family: "Arial MT";
+ 
   font-size: 30px;
   font-weight: 400;
 }
