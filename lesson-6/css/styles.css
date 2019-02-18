@@ -12,7 +12,7 @@
 }
 .img {
   display: inline-block;
-  padding: 64px;
+  padding: 100px;
 
 }
 .home {
@@ -30,7 +30,7 @@
 }
 body {
   background-color: #f6f6f6;
-  font-family: sans-serif
+  font-family: sans-serif;
   
 }
 .btn {
@@ -39,9 +39,8 @@ body {
   background-color: #ec744a;
   color: #ffffff;
   margin-bottom: 60px;
+  font-size: 19px;
   font-weight: 400;
-  font-size: 20px;
-  
 }
 .title {
   margin-top: 55px;
