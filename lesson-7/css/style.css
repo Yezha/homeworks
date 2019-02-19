@@ -1,0 +1,14 @@
+img {
+  border: 10px solid #ffffff;
+}
+.main {
+  display: flex;
+  height: 600px;
+  background-color: #f9f9f9;
+  justify-content: space-around;
+  align-items: flex-end;
+}
+.img-4 {
+  border: 15px;
+  max-width: 230px;
+}
